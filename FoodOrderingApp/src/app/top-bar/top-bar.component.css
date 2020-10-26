@@ -1,0 +1,20 @@
+.tb{
+    height:20vh;
+    width:100%;
+    color: blue;
+    background-color: cornsilk;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: x-large;
+    font-style: italic;
+    padding-left: 3%;
+    position: relative;
+    top:0;
+    left:0;
+    right:0;
+}
+.tb1{
+   position: absolute; 
+   right:3%;
+   
+}
